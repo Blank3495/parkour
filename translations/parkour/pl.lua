@@ -166,3 +166,4 @@ translations.pl = {
 	campfire = "Ognisko",
 	chair = "Krzesło",
 }
+-- new change
